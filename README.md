@@ -1,2 +1,2 @@
 # message-cli
-A CLI messager written in Rust
+A CLI messenger written in Rust
